@@ -1,0 +1,3 @@
+To run filename.c :
+1. gcc filename.c -lgraph -lm
+2. ./a.out
